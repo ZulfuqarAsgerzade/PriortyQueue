@@ -1,0 +1,15 @@
+/Users/zulfugarasgarzade/Desktop/Priorty_Queue/Priorty_Queue/bin/Debug/net7.0/Priorty_Queue
+/Users/zulfugarasgarzade/Desktop/Priorty_Queue/Priorty_Queue/bin/Debug/net7.0/Priorty_Queue.deps.json
+/Users/zulfugarasgarzade/Desktop/Priorty_Queue/Priorty_Queue/bin/Debug/net7.0/Priorty_Queue.runtimeconfig.json
+/Users/zulfugarasgarzade/Desktop/Priorty_Queue/Priorty_Queue/bin/Debug/net7.0/Priorty_Queue.dll
+/Users/zulfugarasgarzade/Desktop/Priorty_Queue/Priorty_Queue/bin/Debug/net7.0/Priorty_Queue.pdb
+/Users/zulfugarasgarzade/Desktop/Priorty_Queue/Priorty_Queue/obj/Debug/net7.0/Priorty_Queue.csproj.AssemblyReference.cache
+/Users/zulfugarasgarzade/Desktop/Priorty_Queue/Priorty_Queue/obj/Debug/net7.0/Priorty_Queue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zulfugarasgarzade/Desktop/Priorty_Queue/Priorty_Queue/obj/Debug/net7.0/Priorty_Queue.AssemblyInfoInputs.cache
+/Users/zulfugarasgarzade/Desktop/Priorty_Queue/Priorty_Queue/obj/Debug/net7.0/Priorty_Queue.AssemblyInfo.cs
+/Users/zulfugarasgarzade/Desktop/Priorty_Queue/Priorty_Queue/obj/Debug/net7.0/Priorty_Queue.csproj.CoreCompileInputs.cache
+/Users/zulfugarasgarzade/Desktop/Priorty_Queue/Priorty_Queue/obj/Debug/net7.0/Priorty_Queue.dll
+/Users/zulfugarasgarzade/Desktop/Priorty_Queue/Priorty_Queue/obj/Debug/net7.0/refint/Priorty_Queue.dll
+/Users/zulfugarasgarzade/Desktop/Priorty_Queue/Priorty_Queue/obj/Debug/net7.0/Priorty_Queue.pdb
+/Users/zulfugarasgarzade/Desktop/Priorty_Queue/Priorty_Queue/obj/Debug/net7.0/Priorty_Queue.genruntimeconfig.cache
+/Users/zulfugarasgarzade/Desktop/Priorty_Queue/Priorty_Queue/obj/Debug/net7.0/ref/Priorty_Queue.dll
